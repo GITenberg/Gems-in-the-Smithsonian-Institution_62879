@@ -1,5 +1,8 @@
 _repo: Gems-in-the-Smithsonian-Institution_62879
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62879-h/images/cover.jpg
 creator:
   author:
     agent_name: Desautels, Paul E.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52170'
     url: http://www.gutenberg.org/2009/agents/52170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62879#Gems-in-the-Smithsonian-Institution
 gutenberg_issued: '2020-08-08'
 gutenberg_type: Text
 identifiers:
