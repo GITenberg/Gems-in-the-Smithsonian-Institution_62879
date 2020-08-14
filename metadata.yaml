@@ -1,0 +1,27 @@
+_repo: Gems-in-the-Smithsonian-Institution_62879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Desautels, Paul E.
+    birthdate: 1920
+    deathdate: 1991
+    gutenberg_agent_id: '52170'
+    url: http://www.gutenberg.org/2009/agents/52170
+description: ''
+gutenberg_issued: '2020-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62879'
+  lccn: '65060068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smithsonian Institution'
+- !lcsh 'Precious stones'
+- !lcc 'NK'
+- !lcsh 'Gems'
+- GITenberg
+title: Gems in the Smithsonian Institution
+url: http://www.gutenberg.org/ebooks/62879
